@@ -1,9 +1,13 @@
 # Amazon Prime Insights: A Data Exploration
 
 Directory includes:
+
 Data folder - Contains the datasets (csv), zip folder of the data and a link to the dataset
+
 Prime Logo - Contains the logo used
+
 Screenshots - Contains screenshots of the project
+
 Tableau Workbook - Contains the dashboards workbook
 
 
