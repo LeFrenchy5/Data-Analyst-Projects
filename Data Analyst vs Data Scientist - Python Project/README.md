@@ -368,7 +368,7 @@ This project delved in a **data job dataset** from kaggle, to **equip students**
 
 · **Salary:** Our analysis revealed that **entry-level data scientists** offer a **steeper** initial **earning potential**, with an **average salary nearly $20,000 higher** than entry-level data analysts. However, it's important to consider the potential need for **additional education** in data science compared to data analysis.
 
-·** Remote Work:** Remote work opportunities appear more **prevalent in both data fields**, potentially driven by companies seeking **top talent** from a wider **geographical pool** and offering greater work-life balance.
+· **Remote Work:** Remote work opportunities appear more **prevalent in both data fields**, potentially driven by companies seeking **top talent** from a wider **geographical pool** and offering greater work-life balance.
 
 **· Career Progression:** The significantly **higher number of senior data scientists** compared to data analysts suggests either a **greater frequency of promotions** within the data science track or data analysts transitioning to these roles later in their careers. Further investigation into career paths would be valuable.
 
