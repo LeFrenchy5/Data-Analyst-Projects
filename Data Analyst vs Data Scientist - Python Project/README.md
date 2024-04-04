@@ -20,7 +20,7 @@ Dataset source for this project is public on Kaggle and can be found at
 
 https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data
 
-**Last updated January 2024 **
+**Last updated January 2024**
 
 The dataset contains **9355 rows** with 12 columns describing various data job roles. For this project, we've specifically focused on entries containing the job title **"Data Analyst"or "Data Scientist"**.
 
