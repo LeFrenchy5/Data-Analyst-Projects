@@ -23,7 +23,7 @@ Dataset source for this project is public on **Kaggle** and can be found at:
 
 **Netflix** https://www.kaggle.com/datasets/shivamb/netflix-shows
 
-**Last updated 2 years ago (2022)**. This dataset contains **6119 rows with 16 columns. **
+**Last updated 2 years ago (2022)**. This dataset contains **6119 rows with 16 columns.**
 
 **Disney+** https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows
 
