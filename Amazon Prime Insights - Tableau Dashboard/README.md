@@ -1,4 +1,4 @@
-##Amazon Prime Insights: A Data Exploration
+# Amazon Prime Insights: A Data Exploration
 
 Directory includes:
 Data folder - Contains the datasets (csv), zip folder of the data and a link to the dataset
@@ -9,7 +9,7 @@ Tableau Workbook - Contains the dashboards workbook
 
 **Skills Used: Tableau, Excel, Radial Bar Chart (Advanced Tableau Calculations)**
 
-#About The Data:
+## About The Data:
 
 Dataset source for this project is public on Kaggle and can be found at 
 
@@ -25,10 +25,10 @@ The dataset has missing values, which could cause issues in in the analysis and 
 
 The dataset provides valuable insights into the platform's content offerings, allowing for an exploration of trends in genre, release years, and potentially user preferences.
 
-#Question:
+## Question:
 
 Using the Amazon Prime video dataset, implement a informative, interactive dashboard to provide data-driven insights into Amazon's library preferences. Work with the given data , implement no transformation's nor update missing.
 
-#Dashboard:
+## Dashboard:
 
 ![Insights 1 new](https://github.com/LeFrenchy5/Data-Analyst-Projects/assets/123564919/fff7fd63-68b3-45bf-8f54-366659dc66fd)
