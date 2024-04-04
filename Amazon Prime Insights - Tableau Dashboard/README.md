@@ -28,7 +28,7 @@ The **dataset provides valuable insights** into the platform's content offerings
 
 ## Question:
 
-Using the Amazon Prime video dataset, implement a** informative, interactive dashboard** to provide **data-driven insights** into Amazon's library preferences. Work with the given data , **implement no transformation's nor update missing values.**
+Using the Amazon Prime video dataset, implement a **informative, interactive dashboard** to provide **data-driven insights** into Amazon's library preferences. Work with the given data , **implement no transformation's nor update missing values.**
 
 ## Dashboard:
 
@@ -39,9 +39,11 @@ The dashboard is **designed in two parts**. The **first section provides insight
 ![Insights 1 new](https://github.com/LeFrenchy5/Data-Analyst-Projects/assets/123564919/fff7fd63-68b3-45bf-8f54-366659dc66fd)
 
 The dashboard is designed in the Amazon Prime **blue and white** with minimal headers and **minimalistic design**, for ease of understanding the visuals. 
+
 ![Insights 2](https://github.com/LeFrenchy5/Data-Analyst-Projects/assets/123564919/65716e1a-5c3c-4a09-924b-00ad229c5964)
 
 The **second section** allows users to **delve deeper into individual movies and series**. Leveraging a **title search** feature, users can explore a wealth of information about each **title**, including its **type** (movie or series), **length** (seasons for series or runtime for movies), **year of release, cast, and a short description**. The search will also display the genre(s) associated with each title, allowing users to find movies and series based on their **preferences**. 
+
 ![movie search new](https://github.com/LeFrenchy5/Data-Analyst-Projects/assets/123564919/a33fdb9a-0c87-4b0c-98bb-afa4cb687a9e)
 
 
