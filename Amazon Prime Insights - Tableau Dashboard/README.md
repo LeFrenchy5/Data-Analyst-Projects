@@ -16,7 +16,7 @@ Dataset source for this project is public on Kaggle and can be found at
 
 https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows
 
-**No definite date **for the dataset but it was **last updated 2 years ago **(2022)
+**No definite date** for the dataset but it was **last updated 2 years ago** (2022)
 
 The dataset contains **9668 rows** of movies and series, with **12 columns**
 
@@ -28,14 +28,13 @@ The **dataset provides valuable insights** into the platform's content offerings
 
 ## Question:
 
-Using the Amazon Prime video dataset, implement a** informative, interactive dashboard** to provide **data-driven insights** into Amazon's library preferences. Work with the given data ,** implement no transformation's nor update missing values.
-**
+Using the Amazon Prime video dataset, implement a** informative, interactive dashboard** to provide **data-driven insights** into Amazon's library preferences. Work with the given data , **implement no transformation's nor update missing values.**
 
 ## Dashboard:
 
 ![Main Newer](https://github.com/LeFrenchy5/Data-Analyst-Projects/assets/123564919/7e8a9721-cbce-4864-8ee2-fd971a0c3edf)
 
-The dashboard is **designed in two parts**. The **first section** provides** insights** into Amazon Prime's collection of movies and series. **Notably**, Amazon Prime boasts a vast library of **movies**, making up** 80% of the collection**, with series constituting the remaining 20%. Additionally,** drama reigns supreme** as the most prominent** genre**, with 986 movies/series falling under this category. **Furthermore, 4 ** of the **top 10 genres** include **drama** as a **category or sub-category.**
+The dashboard is **designed in two parts**. The **first section provides insights** into Amazon Prime's collection of movies and series. **Notably**, Amazon Prime boasts a vast library of **movies**, making up **80% of the collection**, with series constituting the remaining 20%. Additionally, **drama reigns supreme** as the most prominent **genre**, with 986 movies/series falling under this category. **Furthermore, 4** of the **top 10 genres** include **drama** as a **category or sub-category.**
 
 ![Insights 1 new](https://github.com/LeFrenchy5/Data-Analyst-Projects/assets/123564919/fff7fd63-68b3-45bf-8f54-366659dc66fd)
 
@@ -48,9 +47,9 @@ The **second section** allows users to **delve deeper into individual movies and
 
 ## Conclusion:
 
-An **interactive dashboard** was created to analyze potential **user preferences** within the Amazon Prime media library. The analysis revealed** Drama** as the **most prominent genre**, with 986  movies/series being labeled drama, closest is comedy with 531 movies/shows. **Drama is also featured in 4 of the top 10 genres.**
+An **interactive dashboard** was created to analyze potential **user preferences** within the Amazon Prime media library. The analysis revealed **Drama** as the **most prominent genre**, with 986  movies/series being labeled drama, closest is comedy with 531 movies/shows. **Drama is also featured in 4 of the top 10 genres.**
 
-Interestingly,** movies **constituted the majority of the content with **80% (7750)**, suggesting potential user preferences for **long form entertainment or Amazon's preference** for movie's of shows. **United States of America** has produced the most **content (292)** with **India** a close second with **238**, this insight is **misleading** as a major portion of the datasets country column has **missing values.**
+Interestingly, **movies constituted the majority of the content** with **80% (7750)**, suggesting potential user preferences for **long form entertainment or Amazon's preference** for movie's of shows. **United States of America** has produced the most **content (292)** with **India** a close second with **238**, this insight is **misleading** as a major portion of the datasets country column has **missing values.**
 
 **Notably**, the analysis revealed an **exponential increase in recently released or Amazon** **produced content**, suggesting a strategic shift towards original content or modern content, catering to user preferences for fresh entertainment.
 
@@ -60,7 +59,7 @@ While this project provides valuable insights, **limitations** exist:
 
 **Improvements** for the **dashboard** include more in depth visuals, this improvement with the above transformation, would allow a **deep analysis** of **each genre to user rating**, **specific actors and directors** to **IMDB rating** and **user ratings** to provide an understanding of whom is preferred on the platform.  
 
-The** removal** of the **second section** (title search feature) for more **visuals or insights** to provide the company would be more** beneficial.** 
+The **removal** of the **second section** (title search feature) for more **visuals or insights** to provide the company would be more **beneficial.** 
 
 By **implementing** these suggestions, my **future iterations** of this project can offer even more **valuable insights** into understanding **user preferences and optimizing** the Amazon Prime video platform.
 
