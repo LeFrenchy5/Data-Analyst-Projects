@@ -15,7 +15,7 @@ Tableau Folder - Contains the Tableau workbook for the dashboard
 
 **Skills Used: Python, Tableau, Excel**
 
-**Tableau:** https://public.tableau.com/views/MoviesInsightsFinder/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+**Tableau:** https://tabsoft.co/3xljdWc
 
 ## About The Data:
 
