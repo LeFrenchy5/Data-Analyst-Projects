@@ -13,7 +13,7 @@ Tableau Workbook - Contains the dashboards workbook
 
 **Skills Used: Tableau, Excel, Radial Bar Chart (Advanced Tableau Calculations)**
 
-**Tableau:** https://public.tableau.com/views/AmazonPrimeVideo_17068667520050/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+**Tableau:** https://tabsoft.co/4cJW53T
 
 ## About The Data:
 
