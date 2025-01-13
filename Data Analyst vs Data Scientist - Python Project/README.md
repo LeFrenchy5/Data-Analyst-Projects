@@ -4,7 +4,7 @@ Directory Contains:
 
 Data folder - Contains the jobs csv file, a zip file of the data and the kaggle link
 
-Data job Pyhton- Contains the full python project with insights
+Data job Python- Contains the full python project with insights
 
 Screenshots - Contains all the projects screenshots
 
