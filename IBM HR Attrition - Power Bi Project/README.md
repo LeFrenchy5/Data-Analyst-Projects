@@ -70,7 +70,7 @@ Our analysis reveals a potential concerning **16.12% employee attrition rate**, 
 
 · **Sales representatives exhibit a concerning attrition rate of 39.75%**, with 33 individuals leaving the company. Further investigation reveals the **average monthly income is $2000**, with only 4 sales representatives exceeding $3000. Considering the prevalent commission-based structure of sales roles, this disparity might **incentivize departures** for **more stable income or enhanced compensation** elsewhere. Notably, **23 of the departing sales representatives are 30 or under**, suggesting potential influence of early career aspirations on their decision.
 
-· **68% (162 individuals)** of departing employees had a **tenure of 5 years or less**, signifying a** concerning trend of early-career departures** with an additional **23% (54 individuals)** left after **6-10 years with the company**, demonstrating a second plateau of potential talent loss.
+· **68% (162 individuals)** of departing employees had a **tenure of 5 years or less**, signifying a **concerning trend of early-career departures** with an additional **23% (54 individuals)** left after **6-10 years with the company**, demonstrating a second plateau of potential talent loss.
 
 · **45 individuals** departing within the **2-5 year range** originated from the **Research & Development department**, representing a **significant portion (51%) of this group**. A concerning trend lies in the demographic with 43 individuals receiving a **monthly salary of $4000 or less**, and **25** individuals **earning $2000**.
 
